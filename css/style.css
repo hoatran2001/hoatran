@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+
+.top-bar
+{
+	height: 50px; line-height: 50px
+	
+}
+.top-bar a
+{
+	color: white; 
+	
+}
+.top-bar a:hover
+{
+	color:#109200  ;
+	
+}
+
+.navbar .navbar-nav .nav-item .nav-link{
+	padding: 10px 20px; border-radius: 20px;
+}
+.navbar .navbar-nav .nav-item .nav-link:hover{
+	color :#FFFFFF; background-color: #109200 ;
+}
+.main{
+	min-height: 500px;
+}
+.footer{
+	min-height: 200px;
+}
+.gach-chan{
+	border-bottom: 2px solid #FFC113;
+}
+.gach-chansp{
+	border-bottom: 2px solid  #036600;
+}
+footer .navbar-nav .nav-item .nav-link:hover{
+	color: red;
+} 
+footer h4{
+	font-size: 18px;
+}
+
+#service a{
+	text-decoration: none; color:#008218;
+}
+
+#service a:hover{
+	color: #FFC113;
+}
+
+#whye{
+	width: 100%;
+	min-height: 500px;
+	background-image: url(" ../images/why (4).jpg ");
+	backrgound-repeat: no-repeat;
+	backgrond-size: cover;
+	background-position: center center;
+	
+}
+
